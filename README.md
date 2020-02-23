@@ -15,7 +15,8 @@
  
  - git clone --recursive git://github.com/urjaman/frser-duino
  - cd frser-duino
- 
+ - make u2 && make flash-u2
+
 # Para fazer backup da bios digite:
   - flashrom -p serprog:dev=/dev/ttyACM0:115200 -r nome_do_backup.bin ou .rom
 
