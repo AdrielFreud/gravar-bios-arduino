@@ -1,7 +1,7 @@
 # AdrielFreud
 ![](https://img.shields.io/badge/Programming--a--EPROM--(bios)-blue)
 
- - Requisições Web e Extração de Dados
+ - Grave Sua EPROM (Bios) com arduino.
 
 # Circuito Proto-Board
 ![photo](https://eletronicabr.com/uploads/monthly_2015_12/Serduino_fritzing.jpg.9a8f060d155836c757a81618afee4ae1.jpg)
