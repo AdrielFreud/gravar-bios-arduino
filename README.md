@@ -1,5 +1,5 @@
 # AdrielFreud
-![](https://img.shields.io/badge/Programming-a-EPROM-(bios)-blue)
+![](https://img.shields.io/badge/Programming--a--EPROM--(bios)-blue)
 
  - Requisições Web e Extração de Dados
 
